@@ -1,10 +1,8 @@
 {
-  "category": "UFO_UAP",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/foo-fighters",
     "maintainers": [
       {
@@ -18,409 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "foo-fighters",
     "name": "Foo Fighters",
-    "aliases": [
-      {
-        "name": "Kraut Fireballs",
-        "meaning": "Allied pilots' term suggesting German origin"
-      },
-      {
-        "name": "Foo Balls",
-        "meaning": "Variant term"
-      }
-    ],
-    "category": "UFO_UAP",
-    "subcategory": "Historical Aerial Phenomenon",
+    "aliases": [],
+    "category": "UFO/UAP",
+    "subcategory": "Unknown",
     "tags": [
-      "wwii",
-      "aerial-phenomenon",
-      "1940s",
-      "atmospheric",
-      "lights",
-      "ufo-history",
-      "likely-explained"
+      "folklore",
+      "mythology"
     ],
-    "status": "historical",
+    "status": "documented",
     "description": {
-      "summary": "Mysterious glowing spheres and lights encountered by WWII pilots from 1943-1945. Both Allied and Axis pilots reported these phenomena, which paced aircraft but never attacked. Likely atmospheric electrical phenomena.",
-      "full": "Foo Fighters were mysterious aerial phenomena encountered by Allied and Axis pilots during World War II, primarily from 1943-1945. Described as glowing spheres or lights in colors including red, orange, and white, these objects would pace aircraft, perform rapid maneuvers, and appear/disappear suddenly. Critically, despite initial fears, the phenomena never displayed hostile behavior or attacked aircraft. Both Allied and Axis forces reported the phenomenon, with each side initially suspecting enemy secret weapons. Post-war investigations found no evidence of advanced weaponry from either side. Modern analysis suggests the sightings were likely natural atmospheric electrical phenomena such as St. Elmo's fire, ball lightning, optical illusions, and mass misidentification, though some cases remain unexplained. The phenomenon is significant as a precursor to modern UFO lore."
+      "summary": "Foo Fighters were mysterious aerial phenomena encountered by Allied and Axis pilots during World War II, primarily from 1943-1945.",
+      "full": "Foo Fighters were mysterious aerial phenomena encountered by Allied and Axis pilots during World War II, primarily from 1943-1945. Described as glowing spheres or lights in colors including red, orange, and white, these objects would pace aircraft, perform rapid maneuvers, and appear/disappear suddenly."
     },
     "etymology": {
-      "origin": "Named after the phrase 'where there's foo, there's fire' from the Smokey Stover comic strip by Bill Holman",
-      "meaning": "Nonsense word from popular culture; pilots adopted term for unexplained aerial lights",
-      "first_use": "1944-1945 (during WWII)",
-      "note": "The modern rock band 'Foo Fighters' is named after this phenomenon"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "UFO_UAP",
-      "type": "Historical Aerial Phenomenon",
-      "subtype": "WWII-era sightings",
-      "variant": "Likely atmospheric phenomena"
+      "category": "UFO/UAP",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "ball-lightning",
-        "name": "Ball Lightning",
-        "relationship": "possible_explanation",
-        "description": "Rare electrical phenomenon; may explain some sightings"
-      },
-      {
-        "id": "st-elmos-fire",
-        "name": "St. Elmo's Fire",
-        "relationship": "possible_explanation",
-        "description": "Atmospheric electrical discharge around aircraft"
-      },
-      {
-        "id": "ufos",
-        "name": "UFO/UAP",
-        "relationship": "precursor",
-        "description": "Foo fighters predate modern UFO era; early UAP reports"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "appearance": {
-      "shapes": [
-        "Glowing spheres (most common)",
-        "Balls of light",
-        "Disk-shaped lights (occasional)",
-        "Flame-like objects"
-      ],
-      "colors": [
-        "Red",
-        "Orange",
-        "White",
-        "Green (rare)",
-        "Multiple colors simultaneously"
-      ],
-      "size": {
-        "description": "Varied reports, typically described as basketball to car-sized",
-        "consistency": "Low (highly variable accounts)"
-      }
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
+    "abilities": [],
     "behavior": {
-      "patterns": [
-        {
-          "behavior": "Paced aircraft",
-          "description": "Followed aircraft at matching speed, maintaining relative position",
-          "frequency": "very common"
-        },
-        {
-          "behavior": "Could not be shaken",
-          "description": "Remained with aircraft despite evasive maneuvers",
-          "frequency": "common"
-        },
-        {
-          "behavior": "Appeared and disappeared",
-          "description": "Sudden appearance and disappearance without transition",
-          "frequency": "common"
-        },
-        {
-          "behavior": "Rapid maneuvers",
-          "description": "Performed maneuvers impossible for conventional aircraft",
-          "frequency": "occasional"
-        },
-        {
-          "behavior": "No hostile action",
-          "description": "Never attacked, fired upon, or damaged aircraft",
-          "frequency": "always"
-        }
-      ],
-      "duration": "Seconds to minutes; variable",
-      "conditions": "Reported in various weather conditions, day and night"
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
     "temporal": {
-      "period": "1943-1945",
-      "peak": "Late 1944 through early 1945",
-      "context": "World War II aerial combat operations"
-    },
-    "geographic": {
-      "primary_theaters": [
-        "European Theater (Germany, France, Belgium)",
-        "Pacific Theater (Japan, Philippines)",
-        "Both Allied and Axis pilots"
-      ],
-      "specific_locations": [
-        {
-          "theater": "European",
-          "locations": ["Germany (Rhine Valley)", "France", "Belgium", "Italy"],
-          "notes": "Concentrated over Germany in final war months"
-        },
-        {
-          "theater": "Pacific",
-          "locations": ["Japan", "Philippines", "Pacific islands"],
-          "notes": "Less frequently reported than European theater"
-        }
-      ]
-    },
-    "reporting_pattern": {
-      "allied_forces": "Numerous reports, initially thought to be German weapons",
-      "axis_forces": "Also reported; thought Allied weapons",
-      "significance": "Both sides reporting identical phenomenon suggests natural rather than technological origin"
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
-    "timeline": [
-      {
-        "date": "1943-09",
-        "event": "Early sightings begin",
-        "significance": "First documented reports from Allied aircrews over Germany",
-        "source": "WWII military records"
-      },
-      {
-        "date": "1944-11",
-        "event": "Increased frequency",
-        "significance": "Reports become more common as Allied bombing campaigns intensify",
-        "source": "Military intelligence reports"
-      },
-      {
-        "date": "1944-12-14",
-        "event": "Widely reported incidents",
-        "significance": "Multiple crews report foo fighters over Germany on same night",
-        "source": "415th Night Fighter Squadron reports"
-      },
-      {
-        "date": "1945-01-02",
-        "event": "American press coverage",
-        "significance": "Phenomenon enters public consciousness; term 'foo fighters' appears in press",
-        "source": "American newspapers"
-      },
-      {
-        "date": "1945-05",
-        "event": "War ends in Europe",
-        "significance": "European theater reports cease with end of combat operations",
-        "source": "Historical record"
-      },
-      {
-        "date": "1945-08",
-        "event": "War ends in Pacific",
-        "significance": "All WWII foo fighter reports end",
-        "source": "Historical record"
-      },
-      {
-        "date": "1945-1946",
-        "event": "Post-war investigations",
-        "significance": "Both Allied and Axis militaries confirm no secret weapons matched descriptions",
-        "source": "Military investigations, Operation Paperclip debriefs"
-      },
-      {
-        "date": "1950s onward",
-        "event": "UFO era contextualization",
-        "significance": "Foo fighters recognized as precursor to modern UFO phenomenon",
-        "source": "UFO literature"
-      }
-    ],
-    "wartime_context": {
-      "allied_fears": "Initially feared advanced German secret weapons or psychological warfare",
-      "axis_fears": "German and Japanese pilots also reported; thought Allied weapons",
-      "mutual_reporting": "Both sides experiencing identical phenomenon strongly suggests natural causes",
-      "no_attacks": "Complete absence of hostile action reduced priority for investigation"
-    }
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
   },
-
-  "notable_reports": {
+  "sightings": {
     "statistics": {
-      "estimated_reports": "hundreds",
-      "documented_military_reports": "dozens (many records lost or classified)",
-      "both_theaters": true
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
     },
-    "famous_incidents": [
-      {
-        "date": "1944-11-23",
-        "witnesses": "Lt. Edward Schlueter crew (415th Night Fighter Squadron)",
-        "location": "Near Strasbourg, France",
-        "description": "Crew observed 8-10 bright orange lights flying in formation at high speed, pacing their aircraft. Lights performed impossible maneuvers and disappeared suddenly.",
-        "significance": "Well-documented early incident; credible military witnesses",
-        "source": "Military after-action reports"
-      },
-      {
-        "date": "1944-12-14",
-        "witnesses": "Multiple crews, 415th Night Fighter Squadron",
-        "location": "Over Germany",
-        "description": "Multiple aircrews independently reported glowing red spheres that paced their aircraft. Objects showed on some radar systems.",
-        "significance": "Multiple independent witnesses; rare radar confirmation",
-        "source": "Squadron reports"
-      },
-      {
-        "date": "1945",
-        "witnesses": "Various bomber crews",
-        "location": "Rhine Valley, Germany",
-        "description": "Numerous bomber crews reported orange and red lights following formations. Lights maintained position despite evasive action.",
-        "significance": "Concentrated sightings in specific geographic area",
-        "source": "Bomber command reports"
-      }
-    ]
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
-  "investigations": {
-    "wartime": {
-      "allied_intelligence": "Investigated as possible enemy weapons; found no evidence of German technology",
-      "conclusion": "No enemy weapon system matched descriptions; origin unknown",
-      "priority": "Low priority due to lack of hostile action"
-    },
-    "post_war": {
-      "operation_paperclip": "Debriefs of German scientists revealed no such weapon development",
-      "japanese_technology": "Post-war examination of Japanese technology found nothing matching reports",
-      "conclusion": "No evidence of advanced enemy weapons from either side"
-    },
-    "modern_analysis": {
-      "approach": "Historical analysis combined with atmospheric science",
-      "findings": "Most likely combination of atmospheric electrical phenomena and mass misidentification"
-    }
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "wartime": [
-      {
-        "theory": "German secret weapon",
-        "proponents": ["Allied intelligence (initially)"],
-        "status": "Disproven - no evidence found post-war"
-      },
-      {
-        "theory": "Allied secret weapon",
-        "proponents": ["Axis forces (initially)"],
-        "status": "Disproven - no such Allied technology existed"
-      },
-      {
-        "theory": "Psychological warfare",
-        "proponents": ["Some intelligence analysts"],
-        "status": "Unlikely - both sides reported; no tactical advantage"
-      }
-    ],
-    "modern_explanations": [
-      {
-        "explanation": "St. Elmo's Fire",
-        "description": "Atmospheric electrical discharge around aircraft in certain conditions",
-        "likelihood": "high",
-        "supporting_evidence": [
-          "Appears as glowing lights on/near aircraft",
-          "Occurs in electrical storms and high-altitude conditions",
-          "Well-documented atmospheric phenomenon",
-          "Can appear in various colors"
-        ],
-        "limitations": "Doesn't explain all behaviors reported"
-      },
-      {
-        "explanation": "Ball Lightning",
-        "description": "Rare electrical phenomenon forming glowing spheres",
-        "likelihood": "medium",
-        "supporting_evidence": [
-          "Spherical shape matches descriptions",
-          "Can move erratically",
-          "Glows in various colors",
-          "Can appear/disappear suddenly"
-        ],
-        "limitations": "Ball lightning poorly understood; rare occurrence"
-      },
-      {
-        "explanation": "Optical Illusions & Reflections",
-        "description": "Light reflections, ice crystals, atmospheric effects creating illusions",
-        "likelihood": "medium-high",
-        "supporting_evidence": [
-          "Combat stress can enhance perception",
-          "Night flying in combat conditions",
-          "Reflections from aircraft lights",
-          "Atmospheric conditions at altitude"
-        ],
-        "limitations": "Doesn't explain most consistent reports"
-      },
-      {
-        "explanation": "Mass Misidentification",
-        "description": "Various conventional phenomena misidentified under combat stress",
-        "likelihood": "medium",
-        "supporting_evidence": [
-          "High stress combat environment",
-          "Expectation and suggestion effects",
-          "Varied descriptions suggest multiple phenomena",
-          "Night operations with limited visibility"
-        ],
-        "limitations": "Some reports very consistent and from experienced observers"
-      },
-      {
-        "explanation": "Enemy Flares & Anti-Aircraft",
-        "description": "Flares, tracer fire, or anti-aircraft measures misidentified",
-        "likelihood": "low-medium",
-        "supporting_evidence": [
-          "Flares and tracers present in combat",
-          "Can appear to follow aircraft briefly"
-        ],
-        "limitations": "Experienced pilots familiar with such ordinance; behavior doesn't match"
-      }
-    ],
-    "ufo_hypothesis": {
-      "proponents": ["Some UFO researchers"],
-      "claim": "Foo fighters were extraterrestrial craft",
-      "problems": [
-        "No evidence beyond eyewitness reports",
-        "Natural explanations available",
-        "Timing coincides with known atmospheric phenomena",
-        "Extraordinary claim requires extraordinary evidence"
-      ],
-      "status": "Unsupported speculation"
-    }
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
-  "scientific_consensus": {
-    "status": "Likely explained",
-    "primary_explanation": "Combination of atmospheric electrical phenomena (St. Elmo's fire, ball lightning), optical illusions, and misidentifications under combat stress",
-    "confidence": "Medium-high",
-    "remaining_mystery": "Some specific well-documented cases difficult to explain completely, but lack of physical evidence prevents definitive analysis",
-    "significance": "Important historical UAP phenomenon; demonstrates how natural phenomena can create consistent reports under specific conditions"
-  },
-
-  "cultural_impact": {
-    "ufo_history": {
-      "significance": "Precursor to modern UFO phenomenon; early example of aerial mysteries",
-      "kenneth_arnold": "Foo fighters preceded Kenneth Arnold's 1947 sighting that launched modern UFO era",
-      "continuity": "Demonstrates aerial mystery reports predate 1947; provides historical context"
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "rock_band": "Foo Fighters (formed 1994) named after this phenomenon by Dave Grohl",
-      "literature": "Featured in various WWII histories and UFO books",
-      "media": "Documentaries and programs on UFO history regularly cover foo fighters"
-    },
-    "military_aviation": {
-      "legacy": "Part of WWII aviation lore and history",
-      "documentation": "Contributed to military interest in aerial phenomena reporting"
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "swords-2006",
-      "type": "journal article",
-      "title": "Project Sign and the Estimate of the Situation",
-      "authors": ["Michael D. Swords"],
-      "publication": "Journal of UFO Studies",
-      "date": "2006",
-      "notes": "Academic analysis of early UFO reports including foo fighters"
-    },
-    {
-      "id": "intelligence-reports",
-      "type": "military records",
-      "title": "415th Night Fighter Squadron Reports",
-      "date": "1944-1945",
-      "notes": "Primary source military reports"
-    },
-    {
-      "id": "keith-2008",
-      "type": "book",
-      "title": "Strange Skies: Pilot Encounters with UFOs",
-      "authors": ["Jerome Clark"],
-      "publication": "Citadel Press",
-      "date": "1998",
-      "notes": "Compilation of pilot reports including foo fighters"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
