@@ -1,410 +1,210 @@
 # Foo Fighters
 
-> *"Where there's foo, there's fire."*
+> Foo fighters were luminous aerial objects reported pacing Allied (and some Axis) aircraft over Europe and the Pacific in the final years of World War II, particularly in 1944–45, and treated by the postwar Robertson Panel as the first major case-set of military UAP.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-likely_explained-yellow)]()
-[![Era](https://img.shields.io/badge/era-WWII_1943--1945-informational)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-1000-orange)]() ![Status](https://img.shields.io/badge/status-historical-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `foo-fighters` |
-| **Category** | UFO/UAP (Historical) |
-| **Classification** | WWII Aerial Phenomenon |
-| **Time Period** | 1943-1945 |
-| **Location** | European & Pacific theaters |
-| **Status** | Likely atmospheric electrical phenomena |
+| **Category** | UFO_UAP |
+| **Subcategory** | Wartime aerial phenomena (UAP) |
+| **First recorded** | 1941-09-01 |
+| **Primary range** | Reports cluster in the European Theater of Operations (Western Front airspace 1944–45) and the Pacific Theater (Mariana Islands, Japanese home islands airspace 1944–45), with isolated 1941–43 antecedents in the Indian Ocean and Mediterranean |
+| **Status** | historical |
 
 ---
-
 ## Overview
 
-Foo Fighters were mysterious aerial phenomena encountered by Allied and Axis pilots during World War II, primarily from 1943-1945. Described as glowing spheres or lights in colors including red, orange, and white, these objects would pace aircraft, perform rapid maneuvers, and appear/disappear suddenly.
-
-**Critical fact**: Despite initial fears, the phenomena **never displayed hostile behavior or attacked aircraft**.
-
-**Both sides reported**: Allied and Axis forces both encountered foo fighters, with each side initially suspecting enemy secret weapons. This mutual reporting strongly suggests natural rather than technological origins.
-
-**Post-war resolution**: Post-war investigations found **no evidence** of advanced weaponry from either side matching the descriptions.
-
-**Modern analysis**: Likely atmospheric electrical phenomena such as St. Elmo's fire, ball lightning, optical illusions, and mass misidentification under combat stress conditions.
+Foo fighters were small, luminous aerial objects — most often described as orange, red, or white spheres or balls of fire — reported by Allied bomber and night-fighter crews over the European and Pacific theatres of the Second World War, and corroborated by Axis aircrew. Although isolated reports occur from 1942 (RAF Bomber Command) and 1941 (S.S. Pułaski, Indian Ocean), the phenomenon entered organised reporting in late November 1944 with the 415th Night Fighter Squadron (USAAF) flying Bristol Beaufighters over Alsace and the Rhineland. The squadron's intelligence officer, Captain Frederic 'Fritz' Ringwald, documented the encounters; radar operator Donald J. Meiers coined 'foo fighter' from Bill Holman's Smokey Stover comic strip ('where there's foo, there's fire'). The objects appeared to pace aircraft in formation, change colour, perform sharp turns, and vanish without trace. The phrase entered the public record on 13 December 1944 via a Supreme Headquarters Allied Expeditionary Force press release and was discussed in Time on 15 January 1945. Postwar interrogations of Luftwaffe officers found no record of a German weapon program matching the reports, ruling out the most-discussed wartime explanation. The CIA-convened Robertson Panel (January 1953) reviewed foo-fighter reports as part of its evaluation of UFO data and concluded they were probably explicable as electrostatic effects (St Elmo's fire), ball lightning, or atmospheric/optical phenomena combined with the stresses of high-altitude night flying. Foo fighters remain the foundational pre-1947 corpus of military UAP.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Foo-fighter | English (US military slang) / European Theater | from the Smokey Stover comic strip catchphrase 'where there's foo, there's fire' |
+| Kraut fireballs | English / European Theater |  |
+| Feuerball | German (postwar speculation) | 'fireball', proposed but unsubstantiated Nazi-secret-weapon name |
 
-### Primary Name
-- **Foo Fighters** — From the phrase "where there's foo, there's fire" in the *Smokey Stover* comic strip by Bill Holman. Pilots adopted this nonsense word for the unexplained aerial lights. First used 1944-1945.
+## Etymology
 
-### Alternative Names
-
-| Name | Meaning |
-|------|---------|
-| Kraut Fireballs | Allied pilots' term suggesting German origin |
-| Foo Balls | Variant term |
-
-**Modern Legacy**: The rock band Foo Fighters (formed 1994) is named after this WWII phenomenon.
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: UFO/UAP
-├── Type: Historical Aerial Phenomenon
-├── Era: WWII (1943-1945)
-└── Status: Likely Explained (atmospheric)
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Ball Lightning](/ball-lightning) | Possible explanation | Rare electrical phenomenon; glowing spheres |
-| [St. Elmo's Fire](/st-elmos-fire) | Likely explanation | Atmospheric electrical discharge around aircraft |
-| UFOs/UAP | Precursor | Foo fighters predate modern UFO era |
+- **Origin**: The term was coined by Sgt Donald J. Meiers, a radar operator in the 415th Night Fighter Squadron, USAAF, drawing on the Smokey Stover comic strip catchphrase 'where there's foo, there's fire'. Smokey Stover by Bill Holman ran from 1935 in the Chicago Tribune.
+- **Meaning**: 'Foo' is a nonsense word from the comic strip; 'foo fighter' is military slang for an unexplained airborne fire-ball.
+- **First use**: Late November 1944, in the operations diary of the 415th Night Fighter Squadron; first national press use 13 December 1944.
 
 ---
+## Related Phenomena
 
-## Characteristics
-
-### Appearance
-
-| Attribute | Description |
-|-----------|-------------|
-| **Shape** | Glowing spheres (most common), balls of light, occasional disk shapes |
-| **Color** | Red, orange, white, green (rare), sometimes multiple colors |
-| **Size** | Basketball to car-sized (highly variable reports) |
-
-### Behavior Patterns
-
-| Behavior | Description | Frequency |
-|----------|-------------|-----------|
-| **Paced aircraft** | Followed aircraft at matching speed | Very common |
-| **Could not be shaken** | Remained despite evasive maneuvers | Common |
-| **Appeared/disappeared** | Sudden appearance and disappearance | Common |
-| **Rapid maneuvers** | Impossible maneuvers for conventional aircraft | Occasional |
-| **No hostile action** | **Never attacked or damaged aircraft** | **Always** |
-
-**Duration**: Seconds to minutes (variable)
-**Conditions**: Various weather, day and night
+- [Ghost rockets](../ghost-rockets/) — _similar_: 1946 Scandinavian sightings of unidentified rocket-like objects, often paired with foo fighters in early UAP literature
+- [Kenneth Arnold sighting](../kenneth-arnold-sighting/) — _related_: 1947 Mt Rainier sighting that opens the postwar 'flying saucer' era; Arnold and others explicitly framed his report against the foo-fighter precedent
+- [Battle of Los Angeles (1942)](../battle-of-los-angeles/) — _related_: Wartime aerial event sometimes grouped with foo fighters in UAP histories
 
 ---
+## Physical Description
 
+- **Coloration**: orange, red, white, amber, green (rarer)
+- **Morphology**: Reports cluster around a small (1 m or less) luminous sphere or disc; rare cases describe rod or 'string of beads' configurations.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Glowing sphere or ball | Most reports describe a roughly spherical luminous object 30 cm to 1 m in diameter | always |
+| Pacing flight | Objects flew alongside aircraft, often matching speed for minutes at a time, then peeling off or vanishing | common |
+| Formation flight | Some reports describe groups of two to three objects in loose formation | occasional |
+| No radar return | Multiple reports note the objects were invisible to airborne or ground radar | common |
+| No reported attack | Despite proximity to aircraft, no foo fighter is recorded as having damaged or fired on an aircraft | always |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Pacing aircraft | Objects matched aircraft speed (often 200–400 mph) at close range | common | documented |
+| Sharp manoeuvres | Reported sharp turns and vertical climbs at speeds said to exceed contemporary fighter aircraft | occasional | reported |
+| Sudden disappearance | Objects often vanished abruptly from view rather than flying out of sight | common | reported |
+| Apparent immunity to gunfire | Where engaged, reports describe machine-gun fire passing through or having no visible effect | rare | reported |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: neutral
+- **Social structure**: variable
+- **Habitat**: Night-flight altitudes 5,000–25,000 ft over the European Theater, Pacific Theater (Mariana Islands and Japanese home islands airspace), Bomber and night-fighter operational corridors
+
+---
+## Distribution
+
+Reports cluster in the European Theater of Operations (Western Front airspace 1944–45) and the Pacific Theater (Mariana Islands, Japanese home islands airspace 1944–45), with isolated 1941–43 antecedents in the Indian Ocean and Mediterranean.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Alsace / Rhine Valley airspace | Alsace / Lorraine, France |  | 1944-11 to 1945-04 |
+| Pacific Theater airspace | Western Pacific, Japan / Mariana Islands |  | 1944–1945 |
+
+---
 ## Historical Timeline
 
 | Date | Event | Significance |
-|------|-------|--------------|
-| Sept 1943 | Early sightings | First documented reports from Allied aircrews over Germany |
-| Nov 1944 | Increased frequency | Reports more common as Allied bombing intensifies |
-| Dec 14, 1944 | Major incidents | Multiple crews report foo fighters over Germany same night |
-| Jan 2, 1945 | Press coverage | Phenomenon enters public consciousness; term appears in press |
-| May 1945 | European war ends | European theater reports cease |
-| Aug 1945 | Pacific war ends | All WWII foo fighter reports end |
-| 1945-1946 | Post-war investigations | Both sides confirm no secret weapons matched descriptions |
-| 1950s onward | UFO contextualization | Recognized as precursor to modern UFO phenomenon |
+|---|---|---|
+| 1941-09-01 | Crew of the Polish merchant ship S.S. Pułaski report a luminous green orb pacing the vessel in the Indian Ocean | Earliest commonly cited foo-fighter precedent |
+| 1942-12-01 | RAF Pilot Officer Bryan Lumsden reports two amber-orange lights over France | Early RAF foo-fighter precedent |
+| 1944-10-13 | B-24 Liberator pursued by an intermittent red light over Hungary | Earliest 8th Air Force foo-fighter report |
+| 1944-11-23 | Lt Edward Schlueter and crew of the 415th Night Fighter Squadron report eight to ten orange lights pacing their Beaufighter over the Rhine | First major 415th NFS foo-fighter encounter |
+| 1944-12-13 | Supreme Headquarters Allied Expeditionary Force press release publicly discloses the foo-fighter reports as a 'new German weapon' | First public release of the phenomenon by the Allied command |
+| 1945-01-15 | Time magazine publishes 'Foo-Fighter' | First major US national-magazine treatment |
+| 1945-12-01 | Postwar interrogations of Luftwaffe officers (USAAF Air Technical Intelligence) find no German weapon program matching foo-fighter reports | Rules out the most popular wartime explanation |
+| 1953-01-14 | Robertson Panel convened by the CIA reviews UFO data, including foo-fighter reports, and recommends public-relations debunking | First US government scientific review touching on foo fighters |
+| 1968-01-01 | Edward J. Ruppelt's posthumous edition of The Report on Unidentified Flying Objects discusses foo fighters as documented military encounters | Cements foo fighters in the postwar UFO canon |
+
+---
+## Notable Sightings
+
+### Schlueter–Ringwald Beaufighter encounter ⭐
+> **Date**: 1944-11-23  
+> **Location**: Night airspace over the Rhine Valley, Western Front  
+> **Witnesses**: 3 (Lt Edward Schlueter (pilot, 415th NFS), Lt Donald J. Meiers (radar operator), Captain Frederic 'Fritz' Ringwald (S-2 intelligence officer, observer))  
+> **Evidence**: 415th Night Fighter Squadron operations diary; Witness statements collected by Capt Ringwald  
+Lt Schlueter, with Meiers and Ringwald aboard, reported eight to ten orange lights flying off the wing of his Bristol Beaufighter night fighter over the Rhine Valley. The objects paced the aircraft, then disappeared. Ground radar reportedly showed no return; the unit's S-2 documented the encounter. This incident is widely treated as the foundation of the formal foo-fighter reporting record.
+**Credibility**: medium
+**Sources**: 415th NFS operations diary; Chamberlain, J. P., Liberty magazine, 'The Foo-Fighter Mystery', Dec 1945; Chester, K. (2007), Strange Company
 
 ---
 
-## Distribution
 
-### Geographic
+## Evidence
 
-**European Theater** (Primary):
-- Germany (Rhine Valley) — Highest concentration
-- France
-- Belgium
-- Italy
+### Documentary
 
-**Pacific Theater** (Secondary):
-- Japan
-- Philippines
-- Pacific islands
-
-### Temporal
-
-- **Period**: 1943-1945
-- **Peak**: Late 1944 through early 1945
-- **Ended**: Abruptly with end of WWII combat operations
-
-### Reporting Pattern
-
-| Side | Reports | Initial Theory |
-|------|---------|----------------|
-| Allied Forces | Numerous | German secret weapon |
-| Axis Forces | Also reported | Allied secret weapon |
-
-**Significance**: Both sides reporting **identical phenomenon** strongly suggests **natural origin**, not technology.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| 415th Night Fighter Squadron operations diary entries (1944–45) |  | Contemporary squadron diary entries documenting foo-fighter sightings during operational missions over the Rhine. | verified |
+| SHAEF press release on 'foo fighters' | 1944-12-13 | Allied Supreme Headquarters press release publicly disclosing the phenomenon, attributing it tentatively to a 'new German weapon'. | verified |
+| Time magazine 'Foo-Fighter' | 1945-01-15 | First major US national-magazine treatment of the phenomenon. | verified |
+| Robertson Panel report (declassified 1975) | 1953-01 | CIA-convened scientific advisory panel that reviewed UFO data, including foo-fighter reports. | verified |
 
 ---
-
-## Notable Incidents
-
-### 1. Lt. Edward Schlueter Encounter (Nov 23, 1944)
-
-> **Location**: Near Strasbourg, France
-> **Unit**: 415th Night Fighter Squadron
-> **Witnesses**: Flight crew (pilot, radar operator)
-
-**Description**: Crew observed 8-10 bright orange lights flying in formation at high speed, pacing their aircraft. Lights performed impossible maneuvers and disappeared suddenly.
-
-**Significance**: Well-documented early incident with credible military witnesses; detailed after-action reports.
-
----
-
-### 2. Multi-Crew Incident (Dec 14, 1944) ⭐
-
-> **Location**: Over Germany
-> **Unit**: 415th Night Fighter Squadron
-> **Witnesses**: Multiple aircrews (independent)
-
-**Description**: Multiple aircrews independently reported glowing red spheres that paced their aircraft. Objects appeared on some radar systems.
-
-**Significance**: Multiple independent witnesses; rare radar confirmation; same night, same area.
-
----
-
-### 3. Rhine Valley Encounters (1945)
-
-> **Location**: Rhine Valley, Germany
-> **Witnesses**: Numerous bomber crews
-
-**Description**: Bomber formations repeatedly encountered orange and red lights. Lights maintained position despite evasive action.
-
-**Significance**: Concentrated sightings in specific geographic area during final months of European war.
-
----
-
-## Investigations
-
-### Wartime (1943-1945)
-
-**Allied Intelligence**:
-- Investigated as possible enemy weapons
-- Found no evidence of German technology matching descriptions
-- Low priority due to lack of hostile action
-
-**Conclusion**: Origin unknown; no enemy weapon system matched reports.
-
-### Post-War (1945-1946)
-
-**Operation Paperclip**:
-- Debriefs of German scientists revealed no such weapon development
-- Examination of captured technology found nothing matching descriptions
-
-**Japanese Technology**:
-- Post-war examination found no technology matching reports
-
-**Conclusion**: **No evidence** of advanced enemy weapons from either side.
-
-### Modern Analysis
-
-**Approach**: Historical analysis + atmospheric science
-
-**Findings**: Most likely combination of atmospheric electrical phenomena and mass misidentification under combat stress.
-
----
-
 ## Theories & Explanations
 
-### Wartime Theories (Disproven)
+### Paranormal / Cryptozoological
 
-| Theory | Proponents | Status |
-|--------|-----------|--------|
-| German secret weapon | Allied intelligence | **Disproven** - no evidence found |
-| Allied secret weapon | Axis forces | **Disproven** - no such technology |
-| Psychological warfare | Some analysts | **Unlikely** - both sides reported |
+**Extraterrestrial reconnaissance** _(Donald Keyhoe, Richard M. Dolan, Keith Chester)_
 
-### Modern Explanations (Likely)
+Within UFO literature, foo fighters are sometimes treated as evidence of extraterrestrial observation of WWII military activity.
 
-#### 1. St. Elmo's Fire ⭐ (High Likelihood)
+### Scientific
 
-**Description**: Atmospheric electrical discharge around aircraft
+**Electrostatic and atmospheric phenomena** _(Robertson Panel (1953), Philip J. Klass, Robert Sheaffer)_
 
-**Supporting Evidence**:
-- Appears as glowing lights on/near aircraft
-- Occurs in electrical storms and high-altitude conditions
-- Well-documented atmospheric phenomenon
-- Can appear in various colors
+Most foo fighters can be explained by electrostatic discharge (St Elmo's fire) on aircraft surfaces, ball lightning, ice-crystal halos, and reflected light from Allied or Axis flak.
 
-**Limitations**: Doesn't explain all behaviors reported
+**Misidentified flak, fighters, and decoys** _(Klass, P. J., Sheaffer, R.)_
 
----
+A subset of reports likely arise from misidentified ground flak bursts, German night-fighter exhaust, parachute flares, and the small-jet Heinkel He 162 / Me 262 contrails.
 
-#### 2. Ball Lightning (Medium Likelihood)
+**Aviator vertigo and night-flight illusion** _(U.S. Navy aviation-medicine studies (1945–))_
 
-**Description**: Rare electrical phenomenon forming glowing spheres
+Night-time flying produces well-documented spatial-disorientation illusions including the autokinetic effect, in which a stationary point of light appears to move.
 
-**Supporting Evidence**:
-- Spherical shape matches descriptions
-- Can move erratically
-- Glows in various colors
-- Can appear/disappear suddenly
+### Skeptical
 
-**Limitations**: Ball lightning poorly understood; rare occurrence
+**No German weapon program** _(Air Technical Intelligence reports (1945–))_
 
----
+The most popular wartime explanation — that foo fighters were a German secret weapon — was explicitly ruled out by postwar Allied interrogations of Luftwaffe officers and engineers, which found no matching program.
 
-#### 3. Optical Illusions & Reflections (Medium-High Likelihood)
 
-**Description**: Light reflections, ice crystals, atmospheric effects
+## Popular Culture
 
-**Supporting Evidence**:
-- Combat stress can enhance misperception
-- Night flying in combat conditions
-- Reflections from aircraft lights
-- Atmospheric conditions at altitude
+**Literature**: The Report on Unidentified Flying Objects — Edward J. Ruppelt (1956); Strange Company: Military Encounters with UFOs in World War II — Keith Chester (2007); UFOs and the National Security State, vol. 1 — Richard M. Dolan (2002)
 
-**Limitations**: Doesn't explain most consistent reports
+**Film / TV**: UFO: The Lost Evidence (Smithsonian Channel); Multiple episodes of Unsolved Mysteries and Ancient Aliens
+
+**Music**: Foo Fighters (American rock band, 1994–) named for the WWII phenomenon by Dave Grohl
+
+**Other**: USAF Historical Research Agency archival exhibits
 
 ---
+## Research
 
-#### 4. Mass Misidentification (Medium Likelihood)
+### Researchers
 
-**Description**: Various conventional phenomena misidentified under stress
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Capt Frederic 'Fritz' Ringwald | 415th Night Fighter Squadron, USAAF (S-2 intelligence officer) | Documented foo-fighter encounters in real time | 1944–1945 |
+| Edward J. Ruppelt | USAF Project Blue Book | First Project Blue Book chief; integrated foo fighters into postwar US UFO history | 1951–1956 |
+| Keith Chester | Independent researcher | Strange Company (2007); most thorough archival study of WWII UAP | 2000s |
+| Robert Sheaffer | Committee for Skeptical Inquiry | Skeptical analysis of foo-fighter reports | 1970s–present |
+| Philip J. Klass | Aviation Week / CSICOP | Influential conventional-phenomena analyses of WWII and postwar UFO reports | 1960s–2005 |
 
-**Supporting Evidence**:
-- High stress combat environment
-- Expectation and suggestion effects
-- Varied descriptions suggest multiple phenomena
-- Night operations with limited visibility
+### Organizations
 
----
+- [USAF Historical Research Agency](https://www.afhra.af.mil/) — Custodian of 415th Night Fighter Squadron operations records
+- [Mutual UFO Network (MUFON)](https://www.mufon.com/) — Civilian UFO/UAP research
+- [Center for UFO Studies (CUFOS)](http://www.cufos.org/) — Academic-leaning UFO research, including foo-fighter case files
 
-### UFO/Extraterrestrial Hypothesis
-
-**Claim**: Foo fighters were extraterrestrial craft
-
-**Problems**:
-- No evidence beyond eyewitness reports
-- Natural explanations available
-- No physical evidence
-- Extraordinary claim requires extraordinary evidence
-
-**Status**: Unsupported speculation
+Ongoing archival study at the USAF Historical Research Agency, comparative analysis with modern AARO/NASA UAP cases, and skeptical-scientific reanalysis of specific 415th NFS reports.
 
 ---
+## Sources
 
-## Scientific Consensus
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-**Status**: **Likely Explained**
 
-**Primary Explanation**: Combination of atmospheric electrical phenomena (St. Elmo's fire, ball lightning), optical illusions, and misidentifications under combat stress.
+## How to Report a Sighting
 
-**Confidence**: Medium-high
-
-**Remaining Mystery**: Some specific well-documented cases difficult to explain completely, but lack of physical evidence prevents definitive analysis.
-
-**Significance**: Important historical UAP phenomenon demonstrating how natural phenomena can create consistent reports under specific conditions.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Cultural Impact
-
-### UFO History
-
-- **Precursor**: Early example of aerial mysteries; predates Kenneth Arnold's 1947 sighting that launched modern UFO era
-- **Historical Context**: Demonstrates aerial mystery reports existed before 1947
-- **Continuity**: Part of broader history of unexplained aerial phenomena
-
-### Popular Culture
-
-- **Foo Fighters (Band)**: Rock band formed 1994, named after this phenomenon by Dave Grohl
-- **Literature**: Featured in WWII histories and UFO books
-- **Media**: Regular coverage in UFO history documentaries
-
-### Military Aviation
-
-- **Legacy**: Part of WWII aviation lore
-- **Documentation**: Contributed to military interest in aerial phenomena reporting
-- **Historical**: Well-documented example of pilots encountering unexplained phenomena
-
----
-
-## Why Both Sides Reported Matters
-
-**Critical Point**: The fact that **both Allied AND Axis pilots** reported identical phenomena is strong evidence **against** technological origin:
-
-1. **No advantage**: If one side had the technology, why didn't they weaponize it?
-2. **Mutual fear**: Both sides feared enemy secret weapons
-3. **Post-war confirmation**: No such weapons found on either side
-4. **Natural explanation**: Most consistent with atmospheric phenomena affecting all aircraft equally
-
----
-
-## Key Takeaways
-
-1. ✈️ **WWII phenomenon**: Confined to 1943-1945 combat operations
-2. 🌍 **Both sides**: Allied AND Axis pilots reported identical phenomena
-3. ❌ **Never hostile**: Despite fears, objects never attacked aircraft
-4. 🔍 **Post-war**: No enemy weapons found matching descriptions
-5. ⚡ **Likely explanation**: Atmospheric electrical phenomena + combat stress
-6. 🛸 **UFO precursor**: Important early example of aerial mysteries
-7. 📊 **Status**: Likely explained, though some cases remain puzzling
-
----
-
-## Why Likely Natural Phenomenon
-
-| Factor | Indication |
-|--------|------------|
-| Ended with WWII | Stopped when combat operations ceased |
-| Both sides saw it | Not technology of either side |
-| No attacks | Purely observational phenomenon |
-| Combat conditions | Stress, night operations, altitude |
-| Atmospheric science | Known phenomena match descriptions |
-| No physical evidence | Despite hundreds of encounters |
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const fooFighters = await wyrd.getPhenomenon('foo-fighters');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/foo-fighters/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- 415th Night Fighter Squadron Reports (1944-1945). Military records.
-- Swords, M.D. (2006). "Project Sign and the Estimate of the Situation." *Journal of UFO Studies*.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

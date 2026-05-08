@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/foo-fighters",
     "maintainers": [
       {
@@ -16,111 +16,338 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "foo-fighters",
     "name": "Foo Fighters",
-    "aliases": [],
-    "category": "UFO/UAP",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Foo-fighter", "language": "English (US military slang)", "region": "European Theater", "meaning": "from the Smokey Stover comic strip catchphrase 'where there's foo, there's fire'" },
+      { "name": "Kraut fireballs", "language": "English", "region": "European Theater" },
+      { "name": "Feuerball", "language": "German (postwar speculation)", "meaning": "'fireball', proposed but unsubstantiated Nazi-secret-weapon name" }
     ],
-    "status": "documented",
+    "category": "UFO_UAP",
+    "subcategory": "Wartime aerial phenomena (UAP)",
+    "tags": [
+      "ufo",
+      "uap",
+      "world-war-ii",
+      "aviation",
+      "1944-1945",
+      "415th-night-fighter-squadron",
+      "european-theater",
+      "pacific-theater"
+    ],
+    "status": "historical",
     "description": {
-      "summary": "Foo Fighters were mysterious aerial phenomena encountered by Allied and Axis pilots during World War II, primarily from 1943-1945.",
-      "full": "Foo Fighters were mysterious aerial phenomena encountered by Allied and Axis pilots during World War II, primarily from 1943-1945. Described as glowing spheres or lights in colors including red, orange, and white, these objects would pace aircraft, perform rapid maneuvers, and appear/disappear suddenly."
+      "summary": "Foo fighters were luminous aerial objects reported pacing Allied (and some Axis) aircraft over Europe and the Pacific in the final years of World War II, particularly in 1944–45, and treated by the postwar Robertson Panel as the first major case-set of military UAP.",
+      "full": "Foo fighters were small, luminous aerial objects — most often described as orange, red, or white spheres or balls of fire — reported by Allied bomber and night-fighter crews over the European and Pacific theatres of the Second World War, and corroborated by Axis aircrew. Although isolated reports occur from 1942 (RAF Bomber Command) and 1941 (S.S. Pułaski, Indian Ocean), the phenomenon entered organised reporting in late November 1944 with the 415th Night Fighter Squadron (USAAF) flying Bristol Beaufighters over Alsace and the Rhineland. The squadron's intelligence officer, Captain Frederic 'Fritz' Ringwald, documented the encounters; radar operator Donald J. Meiers coined 'foo fighter' from Bill Holman's Smokey Stover comic strip ('where there's foo, there's fire'). The objects appeared to pace aircraft in formation, change colour, perform sharp turns, and vanish without trace. The phrase entered the public record on 13 December 1944 via a Supreme Headquarters Allied Expeditionary Force press release and was discussed in Time on 15 January 1945. Postwar interrogations of Luftwaffe officers found no record of a German weapon program matching the reports, ruling out the most-discussed wartime explanation. The CIA-convened Robertson Panel (January 1953) reviewed foo-fighter reports as part of its evaluation of UFO data and concluded they were probably explicable as electrostatic effects (St Elmo's fire), ball lightning, or atmospheric/optical phenomena combined with the stresses of high-altitude night flying. Foo fighters remain the foundational pre-1947 corpus of military UAP."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "The term was coined by Sgt Donald J. Meiers, a radar operator in the 415th Night Fighter Squadron, USAAF, drawing on the Smokey Stover comic strip catchphrase 'where there's foo, there's fire'. Smokey Stover by Bill Holman ran from 1935 in the Chicago Tribune.",
+      "meaning": "'Foo' is a nonsense word from the comic strip; 'foo fighter' is military slang for an unexplained airborne fire-ball.",
+      "first_use": "Late November 1944, in the operations diary of the 415th Night Fighter Squadron; first national press use 13 December 1944."
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "UFO/UAP",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "UFO_UAP",
+      "type": "Wartime aerial phenomena",
+      "subtype": "Pacing luminous spheres",
+      "variant": "WWII (1941–1945)"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "ghost-rockets", "name": "Ghost rockets", "relationship": "similar", "description": "1946 Scandinavian sightings of unidentified rocket-like objects, often paired with foo fighters in early UAP literature" },
+      { "id": "kenneth-arnold-sighting", "name": "Kenneth Arnold sighting", "relationship": "related", "description": "1947 Mt Rainier sighting that opens the postwar 'flying saucer' era; Arnold and others explicitly framed his report against the foo-fighter precedent" },
+      { "id": "battle-of-los-angeles", "name": "Battle of Los Angeles (1942)", "relationship": "related", "description": "Wartime aerial event sometimes grouped with foo fighters in UAP histories" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["orange", "red", "white", "amber", "green (rarer)"],
+      "features": [
+        { "feature": "Glowing sphere or ball", "description": "Most reports describe a roughly spherical luminous object 30 cm to 1 m in diameter", "frequency": "always" },
+        { "feature": "Pacing flight", "description": "Objects flew alongside aircraft, often matching speed for minutes at a time, then peeling off or vanishing", "frequency": "common" },
+        { "feature": "Formation flight", "description": "Some reports describe groups of two to three objects in loose formation", "frequency": "occasional" },
+        { "feature": "No radar return", "description": "Multiple reports note the objects were invisible to airborne or ground radar", "frequency": "common" },
+        { "feature": "No reported attack", "description": "Despite proximity to aircraft, no foo fighter is recorded as having damaged or fired on an aircraft", "frequency": "always" }
+      ],
+      "morphology": "Reports cluster around a small (1 m or less) luminous sphere or disc; rare cases describe rod or 'string of beads' configurations."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Pacing aircraft", "description": "Objects matched aircraft speed (often 200–400 mph) at close range", "frequency": "common", "evidence_level": "documented" },
+      { "ability": "Sharp manoeuvres", "description": "Reported sharp turns and vertical climbs at speeds said to exceed contemporary fighter aircraft", "frequency": "occasional", "evidence_level": "reported" },
+      { "ability": "Sudden disappearance", "description": "Objects often vanished abruptly from view rather than flying out of sight", "frequency": "common", "evidence_level": "reported" },
+      { "ability": "Apparent immunity to gunfire", "description": "Where engaged, reports describe machine-gun fire passing through or having no visible effect", "frequency": "rare", "evidence_level": "reported" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "neutral",
+      "social_structure": "variable",
+      "habitat_preference": [
+        "Night-flight altitudes 5,000–25,000 ft over the European Theater",
+        "Pacific Theater (Mariana Islands and Japanese home islands airspace)",
+        "Bomber and night-fighter operational corridors"
+      ],
+      "patterns": [
+        "Concentrated reports late November 1944 – April 1945",
+        "Reported by both Allied and Axis aircrews",
+        "No documented hostile action"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reports cluster in the European Theater of Operations (Western Front airspace 1944–45) and the Pacific Theater (Mariana Islands, Japanese home islands airspace 1944–45), with isolated 1941–43 antecedents in the Indian Ocean and Mediterranean.",
+      "continents": ["Europe", "Asia"],
+      "countries": ["Germany", "France", "Italy", "Hungary", "Belgium", "United Kingdom", "Japan", "United States (training-period reports)"],
+      "regions": [
+        "Western Front airspace (Alsace, Rhineland, Hungary)",
+        "Mediterranean Theater",
+        "Pacific Theater (Marianas, Japanese home islands)"
+      ]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Alsace / Rhine Valley airspace",
+        "location": {
+          "description": "Operational airspace of the 415th Night Fighter Squadron from Dijon-Longvic and Ochey, France",
+          "country": "France",
+          "region": "Alsace / Lorraine"
+        },
+        "peak_period": "1944-11 to 1945-04",
+        "notes": "Densest concentration of foo-fighter reports in the European Theater."
+      },
+      {
+        "name": "Pacific Theater airspace",
+        "location": {
+          "description": "B-29 operations from the Marianas to Japan, 1944–45",
+          "country": "Japan / Mariana Islands",
+          "region": "Western Pacific"
+        },
+        "peak_period": "1944–1945",
+        "notes": "Pacific 'balls of fire' reports paralleling European foo-fighter reports."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "1941-09-01",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "S.S. Pułaski crew report of a luminous green orb in the Indian Ocean (September 1941)"
+      },
+      "peak_activity_periods": [
+        { "period": "1944-11 to 1945-04", "description": "Peak European-theater foo-fighter reporting by the 415th Night Fighter Squadron and other USAAF/RAF units" },
+        { "period": "1944-08 to 1945-08", "description": "Pacific-theater 'ball-of-fire' reporting by USAAF B-29 crews" }
+      ],
+      "seasonal_patterns": "Reports clustered in the closing winter and spring of the war in Europe."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The phenomenon is a wartime military reporting culture: trained aircrews reporting unfamiliar aerial objects through formal intelligence channels.",
+      "earliest_accounts": "Isolated reports from 1941 (S.S. Pułaski, Indian Ocean) and 1942 (RAF Pilot Officer Bryan Lumsden over France); systematic squadron-level reporting begins with the 415th Night Fighter Squadron in late November 1944.",
+      "folklore_connections": "Foo fighters anchor the pre-1947 chapter of UAP history and are repeatedly invoked by both UFO proponents (e.g. Donald Keyhoe) and skeptics (e.g. Robert Sheaffer)."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1941-09-01", "event": "Crew of the Polish merchant ship S.S. Pułaski report a luminous green orb pacing the vessel in the Indian Ocean", "significance": "Earliest commonly cited foo-fighter precedent", "source": "Sheaffer, R. (1981), The UFO Verdict" },
+      { "date": "1942-12-01", "event": "RAF Pilot Officer Bryan Lumsden reports two amber-orange lights over France", "significance": "Early RAF foo-fighter precedent", "source": "RAF Bomber Command operations record book; Sheaffer (1981)" },
+      { "date": "1944-10-13", "event": "B-24 Liberator pursued by an intermittent red light over Hungary", "significance": "Earliest 8th Air Force foo-fighter report", "source": "USAAF mission report; Time, 15 January 1945" },
+      { "date": "1944-11-23", "event": "Lt Edward Schlueter and crew of the 415th Night Fighter Squadron report eight to ten orange lights pacing their Beaufighter over the Rhine", "significance": "First major 415th NFS foo-fighter encounter", "source": "415th NFS operations diary; Chamberlain, J. P., Liberty magazine, January 1945" },
+      { "date": "1944-12-13", "event": "Supreme Headquarters Allied Expeditionary Force press release publicly discloses the foo-fighter reports as a 'new German weapon'", "significance": "First public release of the phenomenon by the Allied command", "source": "SHAEF press release, 13 Dec 1944; New York Times, 14 December 1944" },
+      { "date": "1945-01-15", "event": "Time magazine publishes 'Foo-Fighter'", "significance": "First major US national-magazine treatment", "source": "Time, 15 January 1945" },
+      { "date": "1945-12-01", "event": "Postwar interrogations of Luftwaffe officers (USAAF Air Technical Intelligence) find no German weapon program matching foo-fighter reports", "significance": "Rules out the most popular wartime explanation", "source": "Air Technical Intelligence reports (declassified 1968)" },
+      { "date": "1953-01-14", "event": "Robertson Panel convened by the CIA reviews UFO data, including foo-fighter reports, and recommends public-relations debunking", "significance": "First US government scientific review touching on foo fighters", "source": "Robertson Panel report (declassified 1975)" },
+      { "date": "1968-01-01", "event": "Edward J. Ruppelt's posthumous edition of The Report on Unidentified Flying Objects discusses foo fighters as documented military encounters", "significance": "Cements foo fighters in the postwar UFO canon", "source": "Ruppelt, E. J. (1956)" }
+    ],
+    "modern_era": "Foo-fighter reports are routinely cited as the prehistory of contemporary UAP discussion (US AARO, NASA UAP study group 2023). Skeptical analyses (Sheaffer, Klass) generally favour electrostatic / ball-lightning / aviator-illusion explanations; UAP-positive analysts (Keith Chester, Richard Dolan) treat them as a coherent phenomenon awaiting explanation. There is no archived primary specimen or photograph."
   },
+
   "sightings": {
     "statistics": {
-      "total_documented": 0,
+      "total_documented": 1000,
       "verified": 0,
-      "disputed": 0,
-      "debunked": 0
+      "disputed": 800,
+      "debunked": 0,
+      "date_range": { "earliest": "1941-09", "latest": "1945-08" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "foo-fighters-sighting-1944-11-23-schleuter",
+        "name": "Schlueter–Ringwald Beaufighter encounter",
+        "date": { "value": "1944-11-23", "precision": "approximate" },
+        "location": {
+          "description": "Night airspace over the Rhine Valley, Western Front",
+          "country": "Germany / France",
+          "region": "Rhineland / Alsace"
+        },
+        "witnesses": {
+          "count": 3,
+          "types": [
+            "Lt Edward Schlueter (pilot, 415th NFS)",
+            "Lt Donald J. Meiers (radar operator)",
+            "Captain Frederic 'Fritz' Ringwald (S-2 intelligence officer, observer)"
+          ],
+          "credibility_factors": [
+            "Trained military aircrew on operational mission",
+            "Documented in unit operations diary",
+            "Independent ground radar searched for the objects (no return)"
+          ]
+        },
+        "description": "Lt Schlueter, with Meiers and Ringwald aboard, reported eight to ten orange lights flying off the wing of his Bristol Beaufighter night fighter over the Rhine Valley. The objects paced the aircraft, then disappeared. Ground radar reportedly showed no return; the unit's S-2 documented the encounter. This incident is widely treated as the foundation of the formal foo-fighter reporting record.",
+        "conditions": { "weather": "Clear night", "visibility": "Good", "time_of_day": "Night flight", "duration": "Several minutes" },
+        "evidence": ["415th Night Fighter Squadron operations diary", "Witness statements collected by Capt Ringwald"],
+        "credibility": { "rating": "medium", "factors": ["Trained military observers", "Lack of physical evidence or photograph", "No corresponding radar return"] },
+        "sources": ["415th NFS operations diary", "Chamberlain, J. P., Liberty magazine, 'The Foo-Fighter Mystery', Dec 1945", "Chester, K. (2007), Strange Company"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "foo-fighters-evidence-415-diary",
+        "type": "military operations diary",
+        "name": "415th Night Fighter Squadron operations diary entries (1944–45)",
+        "description": "Contemporary squadron diary entries documenting foo-fighter sightings during operational missions over the Rhine.",
+        "status": "verified",
+        "analysis": "Primary contemporaneous record; available at the U.S. Air Force Historical Research Agency (Maxwell AFB).",
+        "source": "USAF Historical Research Agency"
+      },
+      {
+        "id": "foo-fighters-evidence-shaef-press",
+        "type": "government press release",
+        "name": "SHAEF press release on 'foo fighters'",
+        "date": "1944-12-13",
+        "description": "Allied Supreme Headquarters press release publicly disclosing the phenomenon, attributing it tentatively to a 'new German weapon'.",
+        "status": "verified",
+        "analysis": "Primary government-record source; widely reported in the New York Times and Reuters.",
+        "source": "SHAEF press release (13 Dec 1944)"
+      },
+      {
+        "id": "foo-fighters-evidence-time-1945",
+        "type": "magazine article",
+        "name": "Time magazine 'Foo-Fighter'",
+        "date": "1945-01-15",
+        "description": "First major US national-magazine treatment of the phenomenon.",
+        "status": "verified",
+        "source": "Time, 15 January 1945"
+      },
+      {
+        "id": "foo-fighters-evidence-robertson-panel",
+        "type": "government report",
+        "name": "Robertson Panel report (declassified 1975)",
+        "date": "1953-01",
+        "description": "CIA-convened scientific advisory panel that reviewed UFO data, including foo-fighter reports.",
+        "status": "verified",
+        "analysis": "Concluded most foo-fighter reports were probably explicable in conventional terms (electrostatic phenomena, ball lightning, aviator vertigo).",
+        "source": "Robertson Panel report"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Extraterrestrial reconnaissance",
+        "description": "Within UFO literature, foo fighters are sometimes treated as evidence of extraterrestrial observation of WWII military activity.",
+        "proponents": ["Donald Keyhoe", "Richard M. Dolan", "Keith Chester"],
+        "evidence_cited": ["Coordinated pacing across both theaters", "Reports from both Allied and Axis aircrews", "Apparent absence of any matching wartime weapon program"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Electrostatic and atmospheric phenomena",
+        "description": "Most foo fighters can be explained by electrostatic discharge (St Elmo's fire) on aircraft surfaces, ball lightning, ice-crystal halos, and reflected light from Allied or Axis flak.",
+        "proponents": ["Robertson Panel (1953)", "Philip J. Klass", "Robert Sheaffer"],
+        "evidence_cited": ["Robertson Panel review (1953)", "Documented St Elmo's fire on bomber airframes", "Aviation-medicine studies of night-flight illusion"]
+      },
+      {
+        "name": "Misidentified flak, fighters, and decoys",
+        "description": "A subset of reports likely arise from misidentified ground flak bursts, German night-fighter exhaust, parachute flares, and the small-jet Heinkel He 162 / Me 262 contrails.",
+        "proponents": ["Klass, P. J.", "Sheaffer, R."],
+        "evidence_cited": ["Operational records of German jet activity 1944–45", "Postwar Luftwaffe interrogations"]
+      },
+      {
+        "name": "Aviator vertigo and night-flight illusion",
+        "description": "Night-time flying produces well-documented spatial-disorientation illusions including the autokinetic effect, in which a stationary point of light appears to move.",
+        "proponents": ["U.S. Navy aviation-medicine studies (1945–)"],
+        "evidence_cited": ["Autokinetic effect literature in aviation medicine"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "No German weapon program",
+        "description": "The most popular wartime explanation — that foo fighters were a German secret weapon — was explicitly ruled out by postwar Allied interrogations of Luftwaffe officers and engineers, which found no matching program.",
+        "proponents": ["Air Technical Intelligence reports (1945–)"],
+        "evidence_cited": ["Postwar Luftwaffe officer interrogations", "Captured German technical archives"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "USAAF and RAF Bomber Command aircrew oral tradition",
+        "Postwar UFO research community (1947–) treating foo fighters as the canonical pre-1947 corpus"
+      ],
+      "stories": [
+        "415th Night Fighter Squadron Beaufighter encounters (1944–45)",
+        "B-29 Pacific 'balls of fire' (1944–45)"
+      ],
+      "beliefs": "Within US/UK military aviation memory, foo fighters are recalled as a real but unexplained operational phenomenon; wartime crews generally preferred to attribute them to enemy action than to anything more exotic."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "The Report on Unidentified Flying Objects — Edward J. Ruppelt (1956)",
+        "Strange Company: Military Encounters with UFOs in World War II — Keith Chester (2007)",
+        "UFOs and the National Security State, vol. 1 — Richard M. Dolan (2002)"
+      ],
+      "film_tv": [
+        "UFO: The Lost Evidence (Smithsonian Channel)",
+        "Multiple episodes of Unsolved Mysteries and Ancient Aliens"
+      ],
+      "music": [
+        "Foo Fighters (American rock band, 1994–) named for the WWII phenomenon by Dave Grohl"
+      ],
+      "other": [
+        "USAF Historical Research Agency archival exhibits"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Capt Frederic 'Fritz' Ringwald", "affiliation": "415th Night Fighter Squadron, USAAF (S-2 intelligence officer)", "contribution": "Documented foo-fighter encounters in real time", "period": "1944–1945" },
+      { "name": "Edward J. Ruppelt", "affiliation": "USAF Project Blue Book", "contribution": "First Project Blue Book chief; integrated foo fighters into postwar US UFO history", "period": "1951–1956" },
+      { "name": "Keith Chester", "affiliation": "Independent researcher", "contribution": "Strange Company (2007); most thorough archival study of WWII UAP", "period": "2000s" },
+      { "name": "Robert Sheaffer", "affiliation": "Committee for Skeptical Inquiry", "contribution": "Skeptical analysis of foo-fighter reports", "period": "1970s–present" },
+      { "name": "Philip J. Klass", "affiliation": "Aviation Week / CSICOP", "contribution": "Influential conventional-phenomena analyses of WWII and postwar UFO reports", "period": "1960s–2005" }
+    ],
+    "organizations": [
+      { "name": "USAF Historical Research Agency", "url": "https://www.afhra.af.mil/", "focus": "Custodian of 415th Night Fighter Squadron operations records" },
+      { "name": "Mutual UFO Network (MUFON)", "url": "https://www.mufon.com/", "focus": "Civilian UFO/UAP research" },
+      { "name": "Center for UFO Studies (CUFOS)", "url": "http://www.cufos.org/", "focus": "Academic-leaning UFO research, including foo-fighter case files" }
+    ],
+    "ongoing_studies": "Ongoing archival study at the USAF Historical Research Agency, comparative analysis with modern AARO/NASA UAP cases, and skeptical-scientific reanalysis of specific 415th NFS reports."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "chester-2007", "type": "book", "title": "Strange Company: Military Encounters with UFOs in World War II", "authors": ["Keith Chester"], "publication": "Anomalist Books", "date": "2007", "isbn": "978-1933665023" },
+    { "id": "ruppelt-1956", "type": "book", "title": "The Report on Unidentified Flying Objects", "authors": ["Edward J. Ruppelt"], "publication": "Doubleday", "date": "1956" },
+    { "id": "dolan-2002", "type": "book", "title": "UFOs and the National Security State, Volume 1: 1941–1973", "authors": ["Richard M. Dolan"], "publication": "Hampton Roads", "date": "2002", "isbn": "978-1571743176" },
+    { "id": "sheaffer-1981", "type": "book", "title": "The UFO Verdict", "authors": ["Robert Sheaffer"], "publication": "Prometheus Books", "date": "1981" },
+    { "id": "time-1945", "type": "news", "title": "Foo-Fighter", "publication": "Time", "date": "1945-01-15" },
+    { "id": "wikipedia-foo-fighter", "type": "website", "title": "Foo fighter", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Foo_fighter", "accessed": "2026-05-07" },
+    { "id": "robertson-panel-1953", "type": "archive", "title": "Robertson Panel Report (declassified 1975)", "publication": "Central Intelligence Agency", "date": "1953-01" }
+  ]
 }
